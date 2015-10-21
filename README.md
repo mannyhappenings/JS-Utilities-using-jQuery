@@ -4,11 +4,11 @@ JS-Utilies-using-jQuery
 A set of utilities to do some common tasks using jQuery library
 
 ## createElement(...)
-Ever faced problems debugging your own JS code.
+Ever faced problems reading your own JS code.
 
 No? Really??
 
-Then try debugging this simple code [JS Code with errors](https://github.com/mannyhappenings/JS-Utilies-using-jQuery/blob/master/error-trial.js)
+Then try debugging this simple code [JS Code with errors](https://github.com/mannyhappenings/JS-Utilities-using-jQuery/blob/master/error-trial.js)
 
 If you really did not face any problem find errors in the above code then you are really a good debugger, but still this function can raelly help you finding the error real quick.
 
@@ -61,7 +61,7 @@ What if we need another element in that *h1*. You need it? Then just insert it,
 		], true);
 ```
 
-Now, try debugging the same code but with the createElement function used. [Above code with createElement](https://github.com/mannyhappenings/JS-Utilies-using-jQuery/blob/master/error-trial-with-createElement.js)
+Now, try debugging the same code but with the createElement function used. [Above code with createElement](https://github.com/mannyhappenings/JS-Utilities-using-jQuery/blob/master/error-trial-with-createElement.js)
 
 Both of the codes produce same result.
 
@@ -134,4 +134,4 @@ Some advantages of using this functions are:
 * Better error hunting through interpreter errors messages,
 * Suppoorts code folding feature in editors since it uses parenthesis and braces as syntactic structure.
 
-Didn't find the error? No problem, we'll tell you. Just [click here](https://github.com/mannyhappenings/JS-Utilies-using-jQuery/blob/master/error-solution.js)
+Didn't find the error? No problem, we'll tell you. Just [click here](https://github.com/mannyhappenings/JS-Utilities-using-jQuery/blob/master/error-solution.js)

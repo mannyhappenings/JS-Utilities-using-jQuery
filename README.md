@@ -1,7 +1,7 @@
 JS-Utilies-using-jQuery
 =======================
 
-A set of utilities to do some common tasks using jQuery library
+A set of utilities to do some common tasks using jQuery library.
 
 ## createElement(...)
 Ever faced problems reading your own JS code.
@@ -10,7 +10,7 @@ No? Really??
 
 Then try debugging this simple code [JS Code with errors](https://github.com/mannyhappenings/JS-Utilities-using-jQuery/blob/master/error-trial.js)
 
-If you really did not face any problem find errors in the above code then you are really a good debugger, but still this function can raelly help you finding the error real quick.
+If you really did not face any problem find errors in the above code then you are really a good debugger, but still this function can really help you finding the error real quick.
 
 
 ### Usage
@@ -122,15 +122,15 @@ $(document.body).append(
 );
 ```
 
-Don't you think that the latter one is more beatiful than the other?
+Don't you think that the latter one is more beautiful than the first?
 
-Using craeateElement function, makes the creation of element dynamically moe structured.
+Using createElement function, makes the creation of element dynamically moe structured.
 
 Also, since the latter one can be indented, you use code folding too in editor which support it.
 
 
 Some advantages of using this functions are:
-* Better syntactic syntatic structure,
+* Better syntactic structure,
 * Better error hunting through interpreter errors messages,
 * Suppoorts code folding feature in editors since it uses parenthesis and braces as syntactic structure.
 

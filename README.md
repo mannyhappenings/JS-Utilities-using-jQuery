@@ -124,7 +124,7 @@ $(document.body).append(
 
 Don't you think that the latter one is more beautiful than the first?
 
-Using createElement function, makes the creation of element dynamically moe structured.
+Using createElement function, makes the creation of element dynamically more structured.
 
 Also, since the latter one can be indented, you use code folding too in editor which support it.
 
